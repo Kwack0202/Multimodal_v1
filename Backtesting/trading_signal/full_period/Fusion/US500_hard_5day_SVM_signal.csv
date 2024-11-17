@@ -1,0 +1,757 @@
+,True_Label,Predicted_results,action
+0,0,1,Buy
+1,1,1,Holding
+2,1,1,Holding
+3,1,1,Holding
+4,1,1,Holding
+5,1,1,Holding
+6,1,1,Holding
+7,1,1,Holding
+8,1,1,Holding
+9,1,1,Holding
+10,1,1,Holding
+11,0,1,Holding
+12,0,1,Holding
+13,0,1,Holding
+14,0,1,Holding
+15,0,1,Holding
+16,1,1,Holding
+17,0,1,Holding
+18,1,1,Holding
+19,1,1,Holding
+20,1,1,Holding
+21,1,1,Holding
+22,1,1,Holding
+23,1,1,Holding
+24,1,1,Holding
+25,1,1,Holding
+26,1,1,Holding
+27,1,1,Holding
+28,0,1,Holding
+29,0,1,Holding
+30,0,1,Holding
+31,0,1,Holding
+32,0,1,Holding
+33,0,1,Holding
+34,0,0,Holding
+35,0,1,Holding
+36,0,1,Holding
+37,0,1,Holding
+38,1,1,Holding
+39,1,1,Holding
+40,0,1,Holding
+41,0,1,Holding
+42,0,1,Holding
+43,0,1,Holding
+44,0,1,Holding
+45,0,1,Holding
+46,0,1,Holding
+47,0,1,Holding
+48,1,1,Holding
+49,0,1,Holding
+50,0,1,Holding
+51,0,1,Holding
+52,0,0,Holding
+53,1,1,Holding
+54,1,1,Holding
+55,1,0,Holding
+56,1,0,sell
+57,1,0,No action
+58,0,0,No action
+59,0,0,No action
+60,0,1,Buy
+61,0,1,Holding
+62,1,1,Holding
+63,1,1,Holding
+64,1,1,Holding
+65,1,1,Holding
+66,1,1,Holding
+67,1,1,Holding
+68,1,1,Holding
+69,1,1,Holding
+70,0,1,Holding
+71,1,0,Holding
+72,1,1,Holding
+73,0,1,Holding
+74,0,1,Holding
+75,1,0,Holding
+76,1,0,sell
+77,1,0,No action
+78,1,0,No action
+79,0,0,No action
+80,1,1,Buy
+81,0,1,Holding
+82,0,1,Holding
+83,1,1,Holding
+84,1,0,Holding
+85,1,1,Holding
+86,1,1,Holding
+87,0,1,Holding
+88,0,1,Holding
+89,0,1,Holding
+90,1,1,Holding
+91,1,1,Holding
+92,1,1,Holding
+93,1,1,Holding
+94,1,1,Holding
+95,1,1,Holding
+96,1,0,Holding
+97,1,1,Holding
+98,1,1,Holding
+99,1,1,Holding
+100,1,0,Holding
+101,1,1,Holding
+102,1,0,Holding
+103,1,1,Holding
+104,1,0,Holding
+105,1,0,sell
+106,1,1,Buy
+107,0,1,Holding
+108,0,0,Holding
+109,0,0,sell
+110,0,1,Buy
+111,1,0,Holding
+112,1,1,Holding
+113,1,1,Holding
+114,0,1,Holding
+115,0,1,Holding
+116,0,1,Holding
+117,0,1,Holding
+118,0,1,Holding
+119,0,0,Holding
+120,1,1,Holding
+121,0,1,Holding
+122,1,1,Holding
+123,1,1,Holding
+124,1,1,Holding
+125,1,1,Holding
+126,1,1,Holding
+127,0,1,Holding
+128,1,1,Holding
+129,1,1,Holding
+130,1,1,Holding
+131,1,1,Holding
+132,1,1,Holding
+133,1,0,Holding
+134,1,0,sell
+135,1,0,No action
+136,1,1,Buy
+137,0,1,Holding
+138,0,1,Holding
+139,0,1,Holding
+140,0,1,Holding
+141,1,1,Holding
+142,1,1,Holding
+143,1,1,Holding
+144,1,1,Holding
+145,1,1,Holding
+146,1,1,Holding
+147,1,1,Holding
+148,1,1,Holding
+149,1,1,Holding
+150,1,1,Holding
+151,1,1,Holding
+152,1,1,Holding
+153,1,1,Holding
+154,0,1,Holding
+155,1,1,Holding
+156,1,0,Holding
+157,1,1,Holding
+158,1,1,Holding
+159,1,1,Holding
+160,1,0,Holding
+161,1,1,Holding
+162,1,1,Holding
+163,1,1,Holding
+164,1,1,Holding
+165,1,0,Holding
+166,0,0,sell
+167,0,1,Buy
+168,0,1,Holding
+169,0,0,Holding
+170,0,0,sell
+171,0,1,Buy
+172,1,1,Holding
+173,0,1,Holding
+174,1,1,Holding
+175,1,1,Holding
+176,0,1,Holding
+177,0,1,Holding
+178,0,1,Holding
+179,0,1,Holding
+180,0,1,Holding
+181,1,1,Holding
+182,0,1,Holding
+183,1,1,Holding
+184,1,1,Holding
+185,1,1,Holding
+186,1,1,Holding
+187,1,1,Holding
+188,1,0,Holding
+189,1,1,Holding
+190,1,1,Holding
+191,1,1,Holding
+192,1,1,Holding
+193,1,1,Holding
+194,1,1,Holding
+195,1,1,Holding
+196,0,1,Holding
+197,0,0,Holding
+198,0,1,Holding
+199,0,0,Holding
+200,0,0,sell
+201,1,1,Buy
+202,0,1,Holding
+203,0,1,Holding
+204,0,1,Holding
+205,0,1,Holding
+206,0,1,Holding
+207,0,1,Holding
+208,1,1,Holding
+209,1,1,Holding
+210,1,0,Holding
+211,1,0,sell
+212,1,0,No action
+213,1,0,No action
+214,1,0,No action
+215,1,0,No action
+216,1,0,No action
+217,1,0,No action
+218,1,1,Buy
+219,1,0,Holding
+220,1,1,Holding
+221,0,0,Holding
+222,0,0,sell
+223,1,1,Buy
+224,1,0,Holding
+225,1,0,sell
+226,1,0,No action
+227,1,0,No action
+228,1,0,No action
+229,1,0,No action
+230,1,1,Buy
+231,1,0,Holding
+232,1,0,sell
+233,1,0,No action
+234,0,0,No action
+235,0,0,No action
+236,0,0,No action
+237,1,0,No action
+238,1,0,No action
+239,1,0,No action
+240,1,0,No action
+241,1,1,Buy
+242,0,1,Holding
+243,0,1,Holding
+244,0,1,Holding
+245,1,1,Holding
+246,1,1,Holding
+247,1,1,Holding
+248,1,1,Holding
+249,0,1,Holding
+250,1,1,Holding
+251,1,1,Holding
+252,1,1,Holding
+253,1,1,Holding
+254,1,1,Holding
+255,1,1,Holding
+256,1,1,Holding
+257,0,1,Holding
+258,0,1,Holding
+259,1,1,Holding
+260,1,1,Holding
+261,1,1,Holding
+262,1,1,Holding
+263,1,1,Holding
+264,0,1,Holding
+265,0,1,Holding
+266,0,1,Holding
+267,0,1,Holding
+268,0,1,Holding
+269,1,1,Holding
+270,1,1,Holding
+271,1,1,Holding
+272,1,1,Holding
+273,1,1,Holding
+274,1,1,Holding
+275,1,1,Holding
+276,1,1,Holding
+277,1,1,Holding
+278,1,1,Holding
+279,1,1,Holding
+280,1,1,Holding
+281,0,1,Holding
+282,0,1,Holding
+283,0,1,Holding
+284,0,1,Holding
+285,0,1,Holding
+286,0,1,Holding
+287,0,1,Holding
+288,0,1,Holding
+289,1,1,Holding
+290,1,1,Holding
+291,0,1,Holding
+292,0,1,Holding
+293,1,1,Holding
+294,1,1,Holding
+295,1,1,Holding
+296,1,0,Holding
+297,1,1,Holding
+298,1,1,Holding
+299,1,0,Holding
+300,1,0,sell
+301,0,0,No action
+302,0,1,Buy
+303,0,1,Holding
+304,0,1,Holding
+305,1,1,Holding
+306,0,0,Holding
+307,1,1,Holding
+308,1,1,Holding
+309,1,1,Holding
+310,1,1,Holding
+311,1,1,Holding
+312,1,1,Holding
+313,1,1,Holding
+314,1,1,Holding
+315,1,1,Holding
+316,1,1,Holding
+317,1,1,Holding
+318,1,1,Holding
+319,1,1,Holding
+320,1,1,Holding
+321,1,1,Holding
+322,1,1,Holding
+323,0,1,Holding
+324,0,1,Holding
+325,0,1,Holding
+326,1,1,Holding
+327,1,1,Holding
+328,1,1,Holding
+329,1,1,Holding
+330,1,1,Holding
+331,0,1,Holding
+332,1,1,Holding
+333,0,1,Holding
+334,1,1,Holding
+335,0,1,Holding
+336,1,1,Holding
+337,0,1,Holding
+338,0,1,Holding
+339,0,1,Holding
+340,0,1,Holding
+341,0,1,Holding
+342,1,1,Holding
+343,1,1,Holding
+344,0,1,Holding
+345,0,1,Holding
+346,1,1,Holding
+347,1,1,Holding
+348,1,1,Holding
+349,1,1,Holding
+350,1,1,Holding
+351,1,1,Holding
+352,1,1,Holding
+353,1,1,Holding
+354,1,1,Holding
+355,1,1,Holding
+356,1,1,Holding
+357,1,1,Holding
+358,1,1,Holding
+359,1,1,Holding
+360,1,1,Holding
+361,1,1,Holding
+362,0,0,Holding
+363,0,0,sell
+364,0,1,Buy
+365,0,1,Holding
+366,0,1,Holding
+367,1,1,Holding
+368,1,1,Holding
+369,1,1,Holding
+370,1,1,Holding
+371,1,1,Holding
+372,1,1,Holding
+373,1,1,Holding
+374,1,1,Holding
+375,1,1,Holding
+376,1,1,Holding
+377,1,1,Holding
+378,1,1,Holding
+379,1,1,Holding
+380,1,1,Holding
+381,1,1,Holding
+382,0,1,Holding
+383,0,1,Holding
+384,0,1,Holding
+385,0,1,Holding
+386,0,1,Holding
+387,1,1,Holding
+388,1,1,Holding
+389,1,1,Holding
+390,1,1,Holding
+391,1,1,Holding
+392,0,1,Holding
+393,0,1,Holding
+394,1,1,Holding
+395,1,1,Holding
+396,0,1,Holding
+397,1,1,Holding
+398,1,1,Holding
+399,1,1,Holding
+400,1,1,Holding
+401,1,1,Holding
+402,1,1,Holding
+403,1,1,Holding
+404,1,1,Holding
+405,1,1,Holding
+406,0,1,Holding
+407,0,1,Holding
+408,0,1,Holding
+409,0,1,Holding
+410,1,1,Holding
+411,1,1,Holding
+412,1,1,Holding
+413,1,1,Holding
+414,1,1,Holding
+415,1,1,Holding
+416,1,1,Holding
+417,1,1,Holding
+418,0,1,Holding
+419,1,1,Holding
+420,0,1,Holding
+421,0,1,Holding
+422,0,1,Holding
+423,0,1,Holding
+424,0,1,Holding
+425,0,1,Holding
+426,1,1,Holding
+427,0,1,Holding
+428,0,1,Holding
+429,0,1,Holding
+430,0,1,Holding
+431,0,1,Holding
+432,1,1,Holding
+433,1,1,Holding
+434,1,1,Holding
+435,0,1,Holding
+436,0,1,Holding
+437,0,1,Holding
+438,0,1,Holding
+439,0,1,Holding
+440,1,1,Holding
+441,1,1,Holding
+442,1,1,Holding
+443,1,1,Holding
+444,1,1,Holding
+445,0,1,Holding
+446,1,0,Holding
+447,1,0,sell
+448,1,1,Buy
+449,1,0,Holding
+450,1,0,sell
+451,1,1,Buy
+452,1,0,Holding
+453,1,1,Holding
+454,1,1,Holding
+455,1,0,Holding
+456,1,0,sell
+457,1,1,Buy
+458,1,0,Holding
+459,1,0,sell
+460,1,0,No action
+461,1,0,No action
+462,1,0,No action
+463,1,0,No action
+464,1,0,No action
+465,0,0,No action
+466,0,0,No action
+467,0,0,No action
+468,0,0,No action
+469,1,0,No action
+470,1,0,No action
+471,1,1,Buy
+472,1,1,Holding
+473,0,1,Holding
+474,1,1,Holding
+475,0,1,Holding
+476,0,0,Holding
+477,0,1,Holding
+478,0,1,Holding
+479,0,1,Holding
+480,0,1,Holding
+481,0,0,Holding
+482,1,1,Holding
+483,1,1,Holding
+484,1,0,Holding
+485,1,0,sell
+486,1,0,No action
+487,0,0,No action
+488,0,0,No action
+489,1,1,Buy
+490,0,1,Holding
+491,0,1,Holding
+492,1,1,Holding
+493,0,1,Holding
+494,0,1,Holding
+495,1,1,Holding
+496,1,1,Holding
+497,1,1,Holding
+498,1,1,Holding
+499,1,1,Holding
+500,0,1,Holding
+501,0,1,Holding
+502,0,1,Holding
+503,0,1,Holding
+504,0,0,Holding
+505,0,0,sell
+506,0,1,Buy
+507,0,1,Holding
+508,0,0,Holding
+509,1,1,Holding
+510,0,1,Holding
+511,0,1,Holding
+512,0,1,Holding
+513,0,1,Holding
+514,0,1,Holding
+515,0,1,Holding
+516,0,1,Holding
+517,0,1,Holding
+518,0,1,Holding
+519,0,1,Holding
+520,1,1,Holding
+521,1,1,Holding
+522,1,1,Holding
+523,1,1,Holding
+524,1,0,Holding
+525,0,0,sell
+526,0,0,No action
+527,1,0,No action
+528,1,0,No action
+529,1,0,No action
+530,0,0,No action
+531,0,0,No action
+532,0,0,No action
+533,0,1,Buy
+534,0,0,Holding
+535,0,0,sell
+536,0,0,No action
+537,0,0,No action
+538,0,0,No action
+539,1,0,No action
+540,1,0,No action
+541,1,0,No action
+542,0,0,No action
+543,0,0,No action
+544,0,0,No action
+545,0,0,No action
+546,0,0,No action
+547,0,1,Buy
+548,1,0,Holding
+549,1,0,sell
+550,0,0,No action
+551,1,0,No action
+552,1,0,No action
+553,1,0,No action
+554,1,0,No action
+555,1,0,No action
+556,1,0,No action
+557,1,0,No action
+558,1,0,No action
+559,1,0,No action
+560,1,1,Buy
+561,1,0,Holding
+562,1,0,sell
+563,1,0,No action
+564,0,0,No action
+565,0,1,Buy
+566,0,1,Holding
+567,0,1,Holding
+568,0,0,Holding
+569,0,1,Holding
+570,0,1,Holding
+571,0,0,Holding
+572,0,1,Holding
+573,1,1,Holding
+574,1,1,Holding
+575,0,1,Holding
+576,1,1,Holding
+577,0,1,Holding
+578,0,1,Holding
+579,0,0,Holding
+580,0,0,sell
+581,0,0,No action
+582,0,0,No action
+583,1,0,No action
+584,1,0,No action
+585,0,0,No action
+586,1,0,No action
+587,0,0,No action
+588,0,0,No action
+589,0,0,No action
+590,0,0,No action
+591,0,0,No action
+592,0,0,No action
+593,0,0,No action
+594,1,0,No action
+595,1,0,No action
+596,0,0,No action
+597,0,0,No action
+598,0,0,No action
+599,1,0,No action
+600,1,0,No action
+601,1,0,No action
+602,1,0,No action
+603,1,0,No action
+604,1,0,No action
+605,1,0,No action
+606,0,0,No action
+607,1,0,No action
+608,1,0,No action
+609,0,0,No action
+610,0,0,No action
+611,0,0,No action
+612,0,0,No action
+613,0,0,No action
+614,0,0,No action
+615,0,0,No action
+616,0,0,No action
+617,0,0,No action
+618,0,0,No action
+619,1,0,No action
+620,1,0,No action
+621,1,0,No action
+622,1,0,No action
+623,1,0,No action
+624,0,0,No action
+625,0,1,Buy
+626,0,0,Holding
+627,1,1,Holding
+628,1,1,Holding
+629,1,1,Holding
+630,1,0,Holding
+631,1,0,sell
+632,0,1,Buy
+633,0,1,Holding
+634,0,0,Holding
+635,1,0,sell
+636,1,0,No action
+637,1,0,No action
+638,1,0,No action
+639,1,0,No action
+640,1,0,No action
+641,1,0,No action
+642,0,0,No action
+643,1,0,No action
+644,1,0,No action
+645,1,1,Buy
+646,1,0,Holding
+647,1,1,Holding
+648,1,0,Holding
+649,1,0,sell
+650,1,0,No action
+651,0,0,No action
+652,1,1,Buy
+653,1,0,Holding
+654,1,0,sell
+655,1,0,No action
+656,1,0,No action
+657,1,0,No action
+658,0,0,No action
+659,0,0,No action
+660,0,1,Buy
+661,0,0,Holding
+662,0,0,sell
+663,0,1,Buy
+664,0,1,Holding
+665,0,1,Holding
+666,0,1,Holding
+667,0,1,Holding
+668,0,1,Holding
+669,0,1,Holding
+670,0,1,Holding
+671,1,0,Holding
+672,1,0,sell
+673,1,0,No action
+674,1,0,No action
+675,1,0,No action
+676,0,0,No action
+677,0,0,No action
+678,0,0,No action
+679,0,0,No action
+680,0,0,No action
+681,0,0,No action
+682,0,0,No action
+683,0,0,No action
+684,0,0,No action
+685,0,0,No action
+686,0,0,No action
+687,0,0,No action
+688,0,0,No action
+689,1,0,No action
+690,0,0,No action
+691,1,0,No action
+692,1,0,No action
+693,1,1,Buy
+694,0,0,Holding
+695,0,0,sell
+696,0,0,No action
+697,0,0,No action
+698,1,0,No action
+699,1,0,No action
+700,1,0,No action
+701,0,0,No action
+702,1,0,No action
+703,1,0,No action
+704,1,0,No action
+705,1,1,Buy
+706,1,0,Holding
+707,1,0,sell
+708,1,1,Buy
+709,0,0,Holding
+710,1,0,sell
+711,1,0,No action
+712,0,0,No action
+713,0,0,No action
+714,0,1,Buy
+715,1,1,Holding
+716,1,0,Holding
+717,1,0,sell
+718,1,0,No action
+719,1,0,No action
+720,1,0,No action
+721,1,0,No action
+722,0,0,No action
+723,1,0,No action
+724,0,0,No action
+725,1,0,No action
+726,1,0,No action
+727,1,1,Buy
+728,1,0,Holding
+729,1,0,sell
+730,0,0,No action
+731,1,0,No action
+732,1,0,No action
+733,1,0,No action
+734,0,0,No action
+735,0,0,No action
+736,0,0,No action
+737,0,0,No action
+738,1,1,Buy
+739,1,0,Holding
+740,1,0,sell
+741,1,0,No action
+742,0,1,Buy
+743,0,0,Holding
+744,0,0,sell
+745,0,0,No action
+746,0,0,No action
+747,1,1,Buy
+748,1,0,Holding
+749,0,1,Holding
+750,1,1,Holding
+751,0,1,Holding
+752,1,0,Holding
+753,1,0,sell
+754,0,0,No action
+755,1,1,sell

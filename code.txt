@@ -1,0 +1,41 @@
+conda activate 2024_stock_project_tf
+cd C:\python_code\Multimodal_prediction
+
+python 08_Backteting_Buy_and_Hold.py
+
+python 04_LSTM.py
+
+python 06_1_Multimodal_data.py
+python 06_2_CIMTS_train.py
+
+python 07_1_Backtesting_Full_(LSTM).py
+python 07_1_Backtesting_YoY_(LSTM).py
+python 07_2_Backtesting_Full_(VIT).py
+python 07_2_Backtesting_YoY_(VIT).py
+python 07_3_Backtesting_Full_(Fusion).py
+python 07_3_Backtesting_YoY_(Fusion).py
+
+python 09_1_Backtesting_Trading_Full_(LSTMandVIT).py
+python 09_1_Backtesting_Trading_YoY_(LSTMandVIT).py
+python 09_2_Backtesting_Trading_Full_(Fusion).py
+python 09_2_Backtesting_Trading_YoY_(Fusion).py
+
+python 10_1_Backtesting_Trading_metric_Full.py
+python 10_1_Backtesting_Trading_metric_YoY.py
+
+python 10_1_Backtesting_Trading_metric_YoY.py
+
+python 11_trading_ploting_1.py
+python 11_trading_ploting_2.py
+python 11_trading_ploting_3.py
+python 11_trading_ploting_4.py
+python 11_trading_ploting_5.py
+
+
+
+
+
+
+
+
+

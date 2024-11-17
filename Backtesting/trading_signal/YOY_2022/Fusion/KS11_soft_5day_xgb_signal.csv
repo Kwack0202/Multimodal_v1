@@ -1,0 +1,245 @@
+,True_Label,Predicted_results,action
+0,0,0,No action
+1,0,0,No action
+2,1,0,No action
+3,0,0,No action
+4,1,0,No action
+5,0,0,No action
+6,0,0,No action
+7,0,0,No action
+8,0,0,No action
+9,0,0,No action
+10,0,0,No action
+11,0,0,No action
+12,0,0,No action
+13,0,1,Buy
+14,0,1,Holding
+15,0,1,Holding
+16,0,1,Holding
+17,1,1,Holding
+18,1,1,Holding
+19,1,0,Holding
+20,1,0,sell
+21,1,0,No action
+22,0,0,No action
+23,0,0,No action
+24,0,1,Buy
+25,0,1,Holding
+26,1,0,Holding
+27,1,1,Holding
+28,1,1,Holding
+29,0,1,Holding
+30,0,1,Holding
+31,0,1,Holding
+32,0,1,Holding
+33,0,1,Holding
+34,1,1,Holding
+35,1,1,Holding
+36,0,1,Holding
+37,0,1,Holding
+38,0,1,Holding
+39,0,1,Holding
+40,0,1,Holding
+41,1,1,Holding
+42,0,1,Holding
+43,1,1,Holding
+44,1,1,Holding
+45,1,1,Holding
+46,1,1,Holding
+47,1,1,Holding
+48,1,1,Holding
+49,1,1,Holding
+50,1,1,Holding
+51,1,1,Holding
+52,1,1,Holding
+53,1,1,Holding
+54,1,1,Holding
+55,1,1,Holding
+56,1,0,Holding
+57,0,1,Holding
+58,0,1,Holding
+59,0,1,Holding
+60,0,1,Holding
+61,0,1,Holding
+62,1,1,Holding
+63,0,0,Holding
+64,1,1,Holding
+65,1,0,Holding
+66,0,0,sell
+67,0,0,No action
+68,1,0,No action
+69,1,0,No action
+70,0,0,No action
+71,0,0,No action
+72,0,0,No action
+73,0,0,No action
+74,1,1,Buy
+75,1,0,Holding
+76,1,0,sell
+77,1,0,No action
+78,0,0,No action
+79,0,0,No action
+80,0,0,No action
+81,0,0,No action
+82,0,0,No action
+83,0,1,Buy
+84,1,0,Holding
+85,1,0,sell
+86,1,1,Buy
+87,1,1,Holding
+88,1,1,Holding
+89,0,1,Holding
+90,1,0,Holding
+91,0,0,sell
+92,0,0,No action
+93,1,0,No action
+94,1,0,No action
+95,1,0,No action
+96,1,0,No action
+97,0,0,No action
+98,0,0,No action
+99,0,1,Buy
+100,0,0,Holding
+101,0,1,Holding
+102,0,1,Holding
+103,0,1,Holding
+104,0,1,Holding
+105,0,1,Holding
+106,0,0,Holding
+107,0,0,sell
+108,0,0,No action
+109,0,1,Buy
+110,0,1,Holding
+111,0,1,Holding
+112,1,0,Holding
+113,1,1,Holding
+114,1,0,Holding
+115,0,0,sell
+116,0,1,Buy
+117,0,0,Holding
+118,0,1,Holding
+119,1,1,Holding
+120,1,1,Holding
+121,0,1,Holding
+122,1,1,Holding
+123,0,1,Holding
+124,0,1,Holding
+125,0,1,Holding
+126,1,1,Holding
+127,1,1,Holding
+128,1,1,Holding
+129,1,1,Holding
+130,1,1,Holding
+131,1,1,Holding
+132,1,1,Holding
+133,1,1,Holding
+134,1,1,Holding
+135,1,1,Holding
+136,1,1,Holding
+137,1,1,Holding
+138,1,1,Holding
+139,1,1,Holding
+140,1,1,Holding
+141,1,1,Holding
+142,1,1,Holding
+143,1,1,Holding
+144,1,1,Holding
+145,1,1,Holding
+146,1,1,Holding
+147,1,1,Holding
+148,0,1,Holding
+149,0,1,Holding
+150,0,0,Holding
+151,0,1,Holding
+152,0,1,Holding
+153,0,0,Holding
+154,0,1,Holding
+155,1,0,Holding
+156,1,1,Holding
+157,0,0,Holding
+158,0,1,Holding
+159,1,1,Holding
+160,0,1,Holding
+161,0,0,Holding
+162,0,0,sell
+163,0,0,No action
+164,1,1,Buy
+165,0,0,Holding
+166,1,0,sell
+167,1,1,Buy
+168,0,1,Holding
+169,0,1,Holding
+170,0,0,Holding
+171,0,1,Holding
+172,0,0,Holding
+173,0,0,sell
+174,0,0,No action
+175,0,0,No action
+176,0,0,No action
+177,0,0,No action
+178,0,0,No action
+179,1,0,No action
+180,1,0,No action
+181,1,0,No action
+182,1,0,No action
+183,0,0,No action
+184,0,0,No action
+185,0,0,No action
+186,1,0,No action
+187,1,0,No action
+188,1,1,Buy
+189,1,1,Holding
+190,1,1,Holding
+191,0,1,Holding
+192,0,1,Holding
+193,1,0,Holding
+194,1,1,Holding
+195,1,1,Holding
+196,1,1,Holding
+197,1,1,Holding
+198,1,1,Holding
+199,1,1,Holding
+200,1,1,Holding
+201,1,1,Holding
+202,1,0,Holding
+203,1,1,Holding
+204,1,1,Holding
+205,1,1,Holding
+206,1,1,Holding
+207,1,1,Holding
+208,1,1,Holding
+209,0,1,Holding
+210,0,1,Holding
+211,0,1,Holding
+212,0,0,Holding
+213,0,0,sell
+214,0,0,No action
+215,1,1,Buy
+216,1,1,Holding
+217,1,1,Holding
+218,1,1,Holding
+219,1,0,Holding
+220,1,1,Holding
+221,1,0,Holding
+222,0,1,Holding
+223,0,0,Holding
+224,0,1,Holding
+225,0,0,Holding
+226,0,0,sell
+227,0,0,No action
+228,1,0,No action
+229,0,0,No action
+230,0,1,Buy
+231,0,1,Holding
+232,0,1,Holding
+233,0,1,Holding
+234,0,1,Holding
+235,0,1,Holding
+236,0,1,Holding
+237,0,1,Holding
+238,0,1,Holding
+239,0,1,Holding
+240,0,0,Holding
+241,0,0,sell
+242,0,0,No action
+243,1,1,sell
